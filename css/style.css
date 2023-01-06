@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+body {
+  font-family: "Josefin Sans", sans-serif;
+  background: hsl(210deg, 46%, 95%);
+}
+
+.content-1 {
+  background: hsl(263deg, 55%, 52%);
+}
+.content-1 .quotation {
+  position: absolute;
+  top: 15px;
+  opacity: 0.4;
+}
+
+.content-2 {
+  background: hsl(217deg, 19%, 35%);
+}
+
+.content-4 {
+  background: hsl(219deg, 29%, 14%);
+}/*# sourceMappingURL=style.css.map */
